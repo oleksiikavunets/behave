@@ -4,7 +4,10 @@ from selenium.webdriver.chrome.options import Options
 from src.main.common.base_config import REMOTE_RUN, REMOTE_HOST, REMOTE_PORT, BASE_URL
 from selene import config, browser
 
+from behave import fixture
 
+
+@fixture
 def configure_driver():
     config.browser_name = 'chrome'
     config.reports_folder = 'reports'

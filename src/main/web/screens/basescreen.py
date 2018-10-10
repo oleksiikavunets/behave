@@ -1,4 +1,4 @@
-from selene import config, browser
+from selene import browser
 import re
 
 
