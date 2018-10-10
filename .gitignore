@@ -1,0 +1,20 @@
+
+allure-report/
+
+venv/
+
+allure_results/
+
+\.idea/
+
+\.pytest_cache/
+
+<<<<<<< HEAD
+*.png
+
+*.pyc
+=======
+reports/
+>>>>>>> master
+
+*.pyc
