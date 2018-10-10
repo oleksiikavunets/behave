@@ -1,0 +1,3 @@
+To run all tests shell in cmd 'run'
+
+To rerun failed tests shell in cmd 'behave @rerun_failing.features'
