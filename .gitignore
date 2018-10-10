@@ -20,3 +20,5 @@ reports/
 *.pyc
 
 target/
+
+rerun_failing\.features
