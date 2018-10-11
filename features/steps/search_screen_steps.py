@@ -5,7 +5,7 @@ from selene.support.conditions import be
 from src.main.web.screens.search_screen import SearchScreen
 
 
-@given('I open Search Page')
+@given('User opens Search Page')
 def step_impl(context):
     SearchScreen.open()
 

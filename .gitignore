@@ -22,3 +22,5 @@ reports/
 target/
 
 rerun_failing\.features
+
+allure-results/

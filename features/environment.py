@@ -26,6 +26,7 @@ def before_scenario(context, scenario):
 
 
 def after_scenario(context, scenario):
+    browser.driver().delete_all_cookies()
     print('        >>>>AFTER SCENARIO')
 
 
