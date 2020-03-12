@@ -18,7 +18,7 @@ parse==1.9.0
 parse-type==0.4.2
 Pillow==5.2.0
 pluggy==0.7.1
-psutil==5.4.7
+psutil==5.6.6
 py==1.6.0
 pyocr==0.5.3
 PyPOM==2.1.0
